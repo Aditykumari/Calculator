@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+.container{
+    text-align: center;
+    margin-top: 23px;
+}
+table{
+    margin:auto ;
+}
+input{
+    border-radius: 21px;
+    border: 5px solid #244624;
+    font-size: 34px;
+    height: 65px;
+    width: 456px;
+}
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background: #978fa0;
+    width: 102px;
+    height: 75px;
+   margin: 6px;
+}
+.calculator{
+    display: inline-block;
+   background-color: #ff99f7;
+   padding: 23px;
+   border-radius: 53px;
+   border: 4px solid #13695d;
+  
+}
+h1{
+    font-family: 'Tilt Prism', cursive;
+    font-size: 88px;
+}
